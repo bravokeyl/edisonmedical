@@ -1,0 +1,67 @@
+.site-title,
+.header-right {
+  flex: 1 0 50%;
+}
+.zaxu-site-header {
+  height: auto;
+  padding: 12px 0;
+  border-bottom: none;
+}
+.nav-menu-full {
+  background: #3781d3;
+}
+.nav-menu-full a {
+  color: #fff;
+}
+.nav-menu-full a:hover,
+.nav-menu-full a:focus  {
+  color: #222;
+}
+.site-menu a {
+  line-height: 54px;
+}
+.zaxu-before-footer,
+.footer-menu {
+  background: #2196f3 url('images/footer-bg.png');
+  color: #fff;
+}
+.footer-menu {
+  text-align: center;
+  padding: 10px 0px;
+  border-bottom: 1px solid #459ddf;
+}
+.footer-menu ul {
+  margin-bottom: 0px;
+}
+.footer-menu a {
+  display: block;
+  padding: 0px 10px;
+  text-transform: uppercase;
+}
+.footer-menu a:hover,
+.footer-menu a:focus {
+  text-decoration: underline;
+}
+.footer-menu a,
+.footer-menu a:hover,
+.zaxu-before-footer h4,
+.zaxu-before-footer a,
+.zaxu-before-footer a:hover {
+  color: #fff;
+}
+.footer-menu li {
+  display: inline-block;
+  list-style: none;
+}
+.footer-menu li li {
+  display: none;
+}
+.zaxu-site-footer {
+  background: #e0e0e0;
+  text-align: center;
+  color: #969696;
+  padding: 10px 0px;
+}
+.footer-credits img.emoji {
+  width: 10px !important;
+}
